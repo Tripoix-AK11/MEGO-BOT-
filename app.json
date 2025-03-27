@@ -1,13 +1,13 @@
 {
-  "name": "Phoenix-MD",
+  "name": "Mego-Bot",
   "version": "0.0.1",
   "description": "A Simple But Advanced WhatsApp Bot",
-  "logo": "https://i.imgur.com/T78fhJk.jpeg",
-  "keywords": ["whatsapp", "bot", "md", "multi-device", "Phoenix", "Phoenix-MD", "wabot", "termux-bot", "sc-bot", "plugins", "AbhishekSuresh", "Whatsapp-bot-md"],
+  "logo": "https://ibb.co/93SdCGL9.jpg",
+  "keywords": ["whatsapp", "bot", "md", "multi-device", "mego", "mego bot", "wabot", "termux-bot", "sc-bot", "plugins", "AbhishekSuresh", "Whatsapp-bot-md"],
   "repository": "https://github.com/AbhishekSuresh2/Phoenix-Bot",
   "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {levanter_2862938311bb53456d8c87e430b4026c33}
       "description": "Enter Your Session ID",
       "required": true
     },
@@ -16,20 +16,20 @@
       "required": false,
       "value": "."
     },
-    "SUDO": {
+    "SUDO": {201116977576}
       "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
       "required": false,
-      "value": "919074692450, 918157993101"
+      "value": "201116977576, 201116977576"
     },
-    "BOT_INFO": {
+    "BOT_INFO": {بوت عربي مطور من ميغومي 
       "description": "Enter Your Bot Info",
       "required": false,
-      "value": "ᴘʜᴏᴇɴɪx-ᴍᴅ;ᴀʙʜɪꜱʜᴇᴋ ꜱᴜʀᴇꜱʜ;919074692450;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg"
+      "value": "mego-bot;201116977576;https://ibb.co/93SdCGL9"
     },
     "STICKER_DATA": {
       "description": "Enter Your Sticker PackName And Author Name",
       "required": false,
-      "value": "🎯ᴘʜᴏᴇɴɪx-ᴍᴅ;ᴀʙʜɪꜱʜᴇᴋ ꜱᴜʀᴇꜱʜ☘️"
+      "value": "🎯mego stickers☘️"
     },
     "AUDIO_DATA": {
       "description": "Enter Your Audio Data",
@@ -49,7 +49,7 @@
     "BOT_NAME": {
       "description": "Enter Your Bot Name",
       "required": false,
-      "value": "Phoenix-MD"
+      "value": "mego"
     },
     "MODE": {
       "description": "Enter Your Mode Type public For Public Otherwise Type private",
