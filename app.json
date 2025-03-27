@@ -7,7 +7,7 @@
   "repository": "https://github.com/AbhishekSuresh2/Phoenix-Bot",
   "stack": "container",
   "env": {
-    "SESSION_ID": {levanter_2862938311bb53456d8c87e430b4026c33}
+    "SESSION_ID": {
       "description": "Enter Your Session ID",
       "required": true
     },
@@ -16,7 +16,7 @@
       "required": false,
       "value": "."
     },
-    "SUDO": {201116977576}
+    "SUDO": {
       "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
       "required": false,
       "value": "201116977576, 201116977576"
