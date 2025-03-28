@@ -21,7 +21,7 @@
       "required": false,
       "value": "201116977576, 201116977576"
     },
-    "BOT_INFO": {بوت عربي مطور من ميغومي 
+    "BOT_INFO": { 
       "description": "Enter Your Bot Info",
       "required": false,
       "value": "mego-bot;201116977576;https://ibb.co/93SdCGL9"
